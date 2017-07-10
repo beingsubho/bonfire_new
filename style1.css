@@ -1,16 +1,16 @@
 
-div.mydiv{
+.mydiv{
 	background-color: gold;
 	height: 250px; width: 300px;
 	float: left;
 }
 
-div#first{
+#first{
 	background-color: gold;
 }
-div#second{
+#second{
 	background-color: gold;
 }
-div#third{
+#third{
 	background-color: gold;
 }
